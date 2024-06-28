@@ -1,0 +1,10 @@
+[
+  {
+    "field": "hello",
+    "fieldType": "number"
+  },
+  {
+    "field": "bye",
+    "fieldType": "string"
+  }
+]
